@@ -2,4 +2,4 @@
 This is me getting started with C Langauages
 
 
-- from Jenny's lecture
+- from Jenny's lectures
